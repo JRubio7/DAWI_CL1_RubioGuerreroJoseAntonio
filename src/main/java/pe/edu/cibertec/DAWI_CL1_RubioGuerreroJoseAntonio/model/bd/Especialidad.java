@@ -18,5 +18,5 @@ public class Especialidad {
 	@Column(name= "nomesp")
 	private String nomesp;
 	@Column(name= "costo")
-	private Double costo;
+	private String costo;
 }
